@@ -21,7 +21,7 @@ Watch the app in action by clicking [here](https://www.youtube.com/watch?v=UaBZ0
 
 - Anjana Muraleedharan [amuraleedharan@merpsystems.com](mailto:amuraleedharan@merpsystems.com).
 - Amina Muhammad [amuhammad@merpsystems.com](mailto:amuhammad@merpsystems.com).
-- Shiyas Shaji  [ssha@merpsystems.com](mailto:sshaji@merpsystems.com).
+- Shiyas Shaji  [sshaji@merpsystems.com](mailto:sshaji@merpsystems.com).
 
 ## Use Cases
 
